@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Manjari:100&display=swap');
+*{
+	background: #0A0907;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+
+/*PreLoader*/
+#loader{
+	width: 100%;
+	height: 100vh;
+	background: #fff url('../Preloader/Preloader.gif') no-repeat center;
+}
+/*PreLoader*/
+
+
+
+/*Main Nav*/
+
+/*Main Nav*/
+
+.header img{
+	width: 100%;
+	height: 50%;
+
+}
+.tp_btn{
+	text-decoration: none;
+	color: #fff;
+	background: url('export.png') center;
+	padding: 15px;
+	/*width: 15px;
+	height: 15px;*/
+	border-radius: 3px;
+	transition: .3s ease-in-out;
+	font-family: sans-serif;
+	right: 5%;
+}
+.tp_btn:hover{
+	background: #fff;
+	color: #D35230;
+}
+
+
+
+/*Footer*/
+.footer-menu{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	margin: 20px;
+}
+.footer-menu ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.footer-menu ul li{
+	display: inline-block;
+	margin: 0px 15px;
+}
+.footer-menu ul li a{
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 400;
+	color: #FFFFFF;
+	font-family: 'Manjari', sans-serif;
+	transition: .2s;
+}
+.footer-menu ul li a:hover{
+	color: #925F99;
+}
+.footer-bottom{
+	width: 100%;
+}
+.footer-menu-lst ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	width: 50%;
+	float: left;
+}
+.footer-menu-lst ul li{
+	display: inline-block;
+	margin: 0px 15px;
+}
+.footer-menu-lst ul li a{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: 400;
+	color: #FFFFFF;
+	font-family: 'Manjari', sans-serif;
+	transition: .2s;
+}
+.footer-menu-lst ul li a:hover{
+	color: #925F99;
+}
+.footer-ln-lst{
+	width: 50%;
+	float: right;
+	text-align: center;
+	color: #fff;
+	font-family: 'Manjari', sans-serif;
+	font-size: 15px;
+}
+/*Footer*/
+
+
+
+
+
+.new-box{
+	display: flex;
+	justify-content: space-between;
+}
+.child-1 {
+	text-align: center;
+	color: #fff;
+	font-family: sans-serif;
+	height: 150px;
+	background: none;
+	margin: 15px;
+}
+abcdgithub1234
+https://www.youtube.com/watch?v=cNcpKvHEp-w
+.child-2 {
+	text-align: center;
+	color: #fff;
+	font-family: sans-serif;
+	height: 150px;
+	background: none;
+	margin: 15px;
+}
+.child-3 {
+	text-align: center;
+	color: #fff;
+	font-family: sans-serif;
+	height: 150px;
+	background: none;
+	margin: 15px;
+}
+.child-4 {
+	text-align: center;
+	color: #fff;
+	font-family: sans-serif;	
+	height: 150px;
+	background: none;
+	margin: 15px;
+}
+
+
+
+
+
+
+
+
